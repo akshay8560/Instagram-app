@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DF91302D"
+    tools:context=".StartActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="150dp"
+
+
+        android:layout_marginTop="70dp"
+
+        android:backgroundTint="#DF91302D"
+
+        android:foregroundGravity="center"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.041"
+        app:srcCompat="@drawable/insta_photo" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="298dp"
+        android:layout_height="272dp"
+        android:backgroundTint="#C61E1E"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="114dp"
+
+            android:backgroundTint="#3C3F41"
+
+
+            app:srcCompat="@drawable/insta_logo" />
+
+        <Button
+            android:id="@+id/LogIn_main"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:backgroundTint="#DF91302D"
+            android:text="LOG IN"
+            android:textColor="@color/black"
+
+            android:textSize="18dp"
+
+            />
+
+        <Button
+            android:id="@+id/Register_main"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:backgroundTint="#DF91302D"
+
+            android:text="Register"
+            android:textColor="@color/black"
+            android:textSize="17dp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

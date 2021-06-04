@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bar" type="id" />
+    <item name="edit" type="id" />
+    <item name="delete" type="id" />
+    <item name="report" type="id" />
+</resources>
