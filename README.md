@@ -10,12 +10,12 @@ Implementation Guide
  - Firebase Panel
 1 - Create Firebase Project (https://console.firebase.google.com/);
 2 -import the file google-service.json into your project 
-![imagess-1](https://user-images.githubusercontent.com/72661046/120999852-35bd5b00-c7a7-11eb-8922-7b74049960f6.jpeg)
-![imagess-2](https://user-images.githubusercontent.com/72661046/121000197-8fbe2080-c7a7-11eb-923b-1e14d4f7ff89.jpeg)
-![imagess-3](https://user-images.githubusercontent.com/72661046/121000201-90ef4d80-c7a7-11eb-806b-7121c7edd2be.jpeg)
-![imagess-4](https://user-images.githubusercontent.com/72661046/121000205-9187e400-c7a7-11eb-8c8b-077a5fdd2d42.jpeg)
-![imagess-5](https://user-images.githubusercontent.com/72661046/121000208-9187e400-c7a7-11eb-9094-5f9a6a4db1b9.jpeg)
-
+![blackinsta1](https://user-images.githubusercontent.com/72661046/131006325-da34813f-59fc-4110-bc5f-39fe33ccea73.jpeg)
+![blackinsta2](https://user-images.githubusercontent.com/72661046/131006323-30466e4f-c00c-4285-b299-aef261c1b9f7.jpeg)
+![blackinsta3](https://user-images.githubusercontent.com/72661046/131006321-47662387-0fd3-4344-8e31-6c778ff23ee8.jpeg)
+![blackinsta4](https://user-images.githubusercontent.com/72661046/131006314-f6647368-d007-4a63-bd7b-0902e69b0472.jpeg)
+![blackinsta5](https://user-images.githubusercontent.com/72661046/131006330-1e54e0f4-541c-4df6-8a65-e708151ea23a.jpeg)
+![blackinsta6](https://user-images.githubusercontent.com/72661046/131006327-6eec8f60-38a9-423d-aec4-82aa617c61d2.jpeg)
 
 
 
