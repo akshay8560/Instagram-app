@@ -5,7 +5,9 @@
 Implementation Guide
 1 - Project
 1 - Open the Project in your android studio;
+
 Custom photo feed based on who you follow
+
 Post photo posts from camera or gallery
 Like posts
 View all likes on a post
